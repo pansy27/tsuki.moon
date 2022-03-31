@@ -1,0 +1,3 @@
+[submodule "themes/moon-dream"]
+	path = themes/moon-dream
+	url = git@github.com:moon-moon27/moon-dream.git
