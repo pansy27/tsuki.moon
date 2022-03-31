@@ -5,4 +5,7 @@ draft: false
 ---
 aaaaaaaaaaa!!!!!!
 third page of my static website !!!!!
-:D
+
+# Baal shogun !!!! :D
+
+![ baal shogun !!! ](/ei1.webp)
