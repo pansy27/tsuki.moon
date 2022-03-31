@@ -1,4 +1,12 @@
 baseURL = ''
 languageCode = 'en-us'
 title = 'My new pog website'
+i18n = "en"
 theme = "moon-dream"
+
+[params]
+headerTitle = """heylo !!!!
+heccc escaping isn't working  :(
+start of my static website"""
+# old line 
+#  ^~^  ,\n('Y') )\n/   /  heylo  __QQ\n(\\|||/)        (_)_\">\n/    
